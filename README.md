@@ -59,6 +59,10 @@ cd tic-tac-toe
 - First player to get three in a row (horizontal, vertical, or diagonal) wins
 - If all cells are filled and no player has won, the game is a draw
 
+## 🔗 Live Demo
+Play the game here: [https://rajeshwari720.github.io/tictactoe-game/](https://rajeshwari720.github.io/tictactoe-game/)
+
+
 ## Project Structure
 
 ```
