@@ -32,7 +32,7 @@ A modern implementation of the classic Tic Tac Toe game featuring human vs. comp
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/vimalbhoutekar/tic-tac-toe.git
+git clone https://github.com/Rajeshwari720/tictactoe-game.git
 ```
 
 2. Navigate to the project directory:
@@ -105,6 +105,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-Your Name - [@Vimal Bhoutekar](https://github.com/vimalbhoutekar)
+Your Name - [@Rajeshwari720](https://github.com/Rajeshwari720)
 
-Project Link: [https://github.com/vimalbhoutekar/tic-tac-toe](https://github.com/vimalbhoutekar/tic-tac-toe)
+Project Link: [https://github.com/Rajeshwari720/tictactoe-game](https://github.com/Rajeshwari720/tictactoe-game)
